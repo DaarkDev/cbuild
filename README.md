@@ -18,3 +18,6 @@ be very difficult.
 - Move them to ``/usr/local/bin``
 - Chmod +x the ``sh`` file and all that other good stuff
 - Done (most likely if under normal circumstances)
+
+Note: *If you are a complete beginner or not on a version of linux and certain
+software that will support this, then __DO NOT ATTEMPT!__ You __will most likely__ break your system.*
