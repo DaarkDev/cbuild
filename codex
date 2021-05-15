@@ -1,0 +1,2 @@
+cd /usr/local/bin/codex_fold/codex/src/ 
+sudo lua main.lua
