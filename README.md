@@ -21,4 +21,4 @@ be very difficult.
 
 Note: *If you are a complete beginner or not on a version of linux and certain
 software that will support this, then __DO NOT ATTEMPT!__ You __will most likely__ break your system
-or screw something up.*
+or screw something up if you don't have a basic understanding of what you are doing.*
