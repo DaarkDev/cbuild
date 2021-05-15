@@ -1,7 +1,7 @@
 CoDeX Snapshot 21w01a
 
 System Dependencies (as far as I know):
-- lua5.1
+- lua5.1 (or other version possibly)
 - git commands such as clone, pull, etc.
 in order for link cmds to work.
 - Vim in order for vim-file cmd to work.
